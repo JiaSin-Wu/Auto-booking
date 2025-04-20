@@ -1,0 +1,15 @@
+# environment
+env/
+venv/
+ENV/
+.venv/
+
+#Python 
+__pycache__/
+
+*.pyo
+*.pyd
+
+.env
+*.png
+*.txt
